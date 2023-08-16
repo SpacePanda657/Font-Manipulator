@@ -1,0 +1,46 @@
+.heading
+{
+    font-size : 23px;
+    text-align:center;
+    box-shadow:5px 5px 5px black;
+    color:white;
+    float:none;
+    width:100%;
+    margin:0;
+    font-family: 'Amatic SC', cursive;
+    font-weight:700;
+}
+hr{
+    visibility: hidden;
+}
+.note
+{
+    font-size:13px;
+    text-align:center;
+    color:#000000;
+    font-family: 'Langar', cursive;
+    background-color: white;
+    width:100%;
+}
+
+canvas{
+    border: 2px dashed black;
+    border-radius:20px;
+    margin-top:10px;   
+    box-shadow:5px 5px 5px grey; 
+}
+.copy_right_footer
+{
+    position: fixed;
+    width:100%;
+    color:white;
+    background-color:grey;
+    bottom:0;
+    width:100%;
+    line-height:3;
+    text-align:center;
+}
+.font-size
+{
+    font-family: 'Langar', cursive;
+}
